@@ -55,7 +55,7 @@ class Cconnect6(tk.Tk):
 
         print(self.oval)
 
-    def transxy(self,(x,y)):
+    #def transxy(self,(x,y)):
 
 
 
